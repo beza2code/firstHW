@@ -1,6 +1,6 @@
 package week1;
 import stanford.karel.*;
-// karel to clean up the ballot
+// karel to clean up the ballot 
 public class KarelDefendsDemocracy extends SuperKarel {
 
 	public void run() {
